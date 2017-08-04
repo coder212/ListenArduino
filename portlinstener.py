@@ -1,4 +1,3 @@
-from time import sleep
 import serial
 import os
 def create_file(text):
